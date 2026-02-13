@@ -1,0 +1,248 @@
+/* ================================
+   PADRÕES DE TIPOGRAFIA - INOVE BIO
+   ================================ */
+
+/* HIERARQUIA DE TÍTULOS */
+/* H1 - Títulos Principais de Seção (Hero, Principais) */
+.text-h1,
+h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem) !important;
+  font-weight: 900 !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.02em !important;
+}
+
+/* H2 - Títulos de Seção */
+.text-h2,
+h2 {
+  font-size: clamp(2rem, 4vw, 3rem) !important;
+  font-weight: 800 !important;
+  line-height: 1.3 !important;
+  letter-spacing: -0.01em !important;
+}
+
+/* H3 - Subtítulos de Seção */
+.text-h3,
+h3 {
+  font-size: clamp(1.5rem, 3vw, 2.25rem) !important;
+  font-weight: 700 !important;
+  line-height: 1.4 !important;
+}
+
+/* H4 - Títulos de Cards e Componentes */
+.text-h4,
+h4 {
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem) !important;
+  font-weight: 700 !important;
+  line-height: 1.4 !important;
+}
+
+/* H5 - Subtítulos de Cards */
+.text-h5,
+h5 {
+  font-size: clamp(1.125rem, 2vw, 1.5rem) !important;
+  font-weight: 600 !important;
+  line-height: 1.5 !important;
+}
+
+/* H6 - Texto Destaque/Introdução */
+.text-h6,
+h6 {
+  font-size: clamp(1rem, 1.5vw, 1.25rem) !important;
+  font-weight: 400 !important;
+  line-height: 1.6 !important;
+}
+
+/* TEXTO CORPO */
+/* Body 1 - Texto padrão de parágrafos */
+.text-body-1 {
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  line-height: 1.75 !important;
+}
+
+/* Body 2 - Texto secundário */
+.text-body-2 {
+  font-size: 0.875rem !important;
+  font-weight: 400 !important;
+  line-height: 1.6 !important;
+}
+
+/* OVERLINES E LABELS */
+.text-overline,
+.overline {
+  font-size: 0.75rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.15em !important;
+  text-transform: uppercase !important;
+}
+
+/* PESOS DE FONTE PADRONIZADOS */
+.font-weight-black {
+  font-weight: 900 !important;
+}
+
+.font-weight-bold {
+  font-weight: 700 !important;
+}
+
+.font-weight-medium {
+  font-weight: 600 !important;
+}
+
+.font-weight-regular {
+  font-weight: 400 !important;
+}
+
+.font-weight-light {
+  font-weight: 300 !important;
+}
+
+/* LINE HEIGHT UTILITIES */
+.line-height-sm {
+  line-height: 1.3 !important;
+}
+
+.line-height-md {
+  line-height: 1.5 !important;
+}
+
+.line-height-lg {
+  line-height: 1.75 !important;
+}
+
+.line-height-xl {
+  line-height: 2 !important;
+}
+
+/* LETTER SPACING */
+.letter-spacing-tight {
+  letter-spacing: -0.02em !important;
+}
+
+.letter-spacing-normal {
+  letter-spacing: 0 !important;
+}
+
+.letter-spacing-wide {
+  letter-spacing: 0.02em !important;
+}
+
+/* CLASSES DE UTILIDADE PARA COMBINAÇÕES COMUNS */
+/* Título Principal de Página */
+.page-title {
+  font-size: clamp(2rem, 4vw, 3rem) !important;
+  font-weight: 800 !important;
+  line-height: 1.3 !important;
+  letter-spacing: -0.01em !important;
+}
+
+/* Título de Seção */
+.section-title {
+  font-size: clamp(1.75rem, 3.5vw, 2.5rem) !important;
+  font-weight: 700 !important;
+  line-height: 1.3 !important;
+}
+
+/* Título de Card */
+.card-title {
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem) !important;
+  font-weight: 700 !important;
+  line-height: 1.4 !important;
+}
+
+/* Texto de Introdução/Destaque */
+.intro-text {
+  font-size: clamp(1rem, 1.5vw, 1.25rem) !important;
+  font-weight: 400 !important;
+  line-height: 1.7 !important;
+}
+
+/* Texto de Parágrafo */
+.body-text {
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  line-height: 1.75 !important;
+}
+
+/* Label/Overline Padrão */
+.section-label {
+  font-size: 0.75rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.15em !important;
+  text-transform: uppercase !important;
+}
+
+/* ================================
+   RESPONSIVIDADE
+   ================================ */
+
+/* Mobile: Ajustes de tipografia para telas pequenas */
+@media (max-width: 600px) {
+  .page-title {
+    font-size: 1.75rem !important;
+  }
+
+  .section-title {
+    font-size: 1.5rem !important;
+  }
+
+  .card-title {
+    font-size: 1.125rem !important;
+  }
+
+  .intro-text {
+    font-size: 0.95rem !important;
+    line-height: 1.6 !important;
+  }
+
+  .body-text {
+    font-size: 0.9rem !important;
+    line-height: 1.6 !important;
+  }
+
+  .section-label {
+    font-size: 0.7rem !important;
+  }
+
+  /* Ajustes de headings */
+  .text-h1,
+  h1 {
+    font-size: 2rem !important;
+  }
+
+  .text-h2,
+  h2 {
+    font-size: 1.75rem !important;
+  }
+
+  .text-h3,
+  h3 {
+    font-size: 1.5rem !important;
+  }
+
+  .text-h4,
+  h4 {
+    font-size: 1.25rem !important;
+  }
+
+  .text-h5,
+  h5 {
+    font-size: 1.125rem !important;
+  }
+}
+
+/* Tablet: Ajustes para telas médias */
+@media (min-width: 600px) and (max-width: 960px) {
+  .page-title {
+    font-size: 2.25rem !important;
+  }
+
+  .section-title {
+    font-size: 2rem !important;
+  }
+
+  .intro-text {
+    font-size: 1.125rem !important;
+  }
+}

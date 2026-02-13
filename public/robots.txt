@@ -1,0 +1,21 @@
+# robots.txt para InoveBIO
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://inovebio.com.br/sitemap.xml
+
+# Páginas principais
+Allow: /
+Allow: /quem-somos
+Allow: /nossa-atuacao
+Allow: /contato
+
+# Versão em inglês
+Allow: /en
+Allow: /en/quem-somos
+Allow: /en/nossa-atuacao
+Allow: /en/contato
+
+# Crawl-delay (opcional, ajuste conforme necessário)
+Crawl-delay: 1

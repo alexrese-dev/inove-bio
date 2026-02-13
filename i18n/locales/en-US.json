@@ -1,0 +1,306 @@
+{
+  "nav": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "ourWork": "Our Work",
+    "contact": "Contact",
+    "becomeClient": "Become a Client",
+    "becomeSupplier": "Become a Supplier",
+    "wantToBuy": "I Want to Buy",
+    "wantToSell": "I Want to Sell",
+    "history": "History",
+    "missionVisionValues": "Mission, Vision and Values",
+    "purpose": "Purpose",
+    "howItWorks": "How It Works",
+    "differentials": "Differentials"
+  },
+  "quemSomos": {
+    "history": {
+      "overline": "Our Journey",
+      "title": "Our History",
+      "text1": "InoveBIO was born from the bold and determined vision of Fernando, who went from being an employee to becoming the heart of the operation and the soul of an innovative project. Committed to the planet's sustainable future, the company specializes in supplying inputs for biodiesel production, serving organizations seeking renewable, clean, and responsible energy solutions. With a qualified team (including professionals such as a dedicated chemist), InoveBIO transforms what would be waste into valuable raw material.",
+      "text2": "Vegetable oils, animal fats, and organic waste are converted into high-quality biofuel through advanced processes such as transesterification, strengthening the circular economy and reducing the environmental footprint. More than a supplier, InoveBIO is a new business model: sustainable, intelligent, and bold."
+    },
+    "mvv": {
+      "overline": "Our Pillars",
+      "title": "Mission, Vision and Values",
+      "mission": {
+        "title": "Mission",
+        "text": "To provide high-quality inputs for biodiesel production, combining innovation, technical knowledge, and environmental responsibility to support companies seeking renewable and conscious energy solutions."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "To be a reference in the biofuels sector as a company that transforms waste into clean energy, driving the circular economy and contributing to a sustainable future."
+      },
+      "values": {
+        "title": "Values",
+        "excellence": {
+          "title": "Agile excellence",
+          "text": "We do it well, with speed and adaptability."
+        },
+        "innovation": {
+          "title": "Transformative innovation",
+          "text": "We create solutions that move the sector and the planet toward the future."
+        },
+        "focus": {
+          "title": "Customer focus, always",
+          "text": "We listen, understand, and deliver real value to those with us."
+        },
+        "partnerships": {
+          "title": "Valuable partnerships",
+          "text": "We believe in strong alliances that accelerate ideas and results."
+        },
+        "commitment": {
+          "title": "Commitment to the future",
+          "text": "We act with environmental awareness and social responsibility to leave a positive legacy."
+        }
+      }
+    },
+    "purpose": {
+      "prefix": "The vision that drives us",
+      "title": "Our Purpose is to transform ...",
+      "text": "what is discarded into clean energy, driving sustainability and proving that it is possible to unite innovation, courage, and environmental responsibility to build a better future for everyone.",
+      "quote": "A green powerhouse that transforms everything into biodiesel.",
+      "statement": "Acting with intelligence and responsibility to ensure a future worth living."
+    }
+  },
+  "nossaAtuacao": {
+    "howItWorks": {
+      "overline": "HOW IT WORKS",
+      "title": "Supply of inputs for biodiesel",
+      "description": "At InoveBIO, we believe that strategic partnerships are the fuel to transform the future of energy. That's why we seek companies that share our vision of sustainability and innovation to, together, boost quality biodiesel production and reduce environmental impacts.",
+      "whyPartner": "Why partner with InoveBIO?",
+      "benefits": {
+        "quality": {
+          "title": "Guaranteed quality:",
+          "text": "high-standard inputs for efficient biodiesel production."
+        },
+        "diversity": {
+          "title": "Raw material diversity:",
+          "text": "vegetable oils, animal fats, and organic waste, ensuring flexibility and continuity in supply."
+        },
+        "technology": {
+          "title": "Technology and innovation:",
+          "text": "advanced chemical processes, such as transesterification, that guarantee superior performance."
+        },
+        "commitment": {
+          "title": "Environmental commitment:",
+          "text": "each partnership strengthens the circular economy and helps reduce the carbon footprint."
+        }
+      }
+    },
+    "differentials": {
+      "overline": "WHAT SETS US APART",
+      "title": "Our differentials",
+      "badges": {
+        "quality": "Process excellence",
+        "sustainability": "Proven sustainability",
+        "innovation": "Continuous innovation",
+        "partnership": "Strategic partnership"
+      },
+      "cards": {
+        "quality": {
+          "title": "Superior Quality",
+          "description": "High-quality inputs that ensure efficiency and performance in biodiesel production, with rigorous control standards."
+        },
+        "rawMaterial": {
+          "title": "Raw Material Diversity",
+          "description": "We work with a wide range of raw materials: vegetable oils, animal fats, and organic waste, offering flexibility and security in supply."
+        },
+        "technology": {
+          "title": "Advanced Technology",
+          "description": "We use cutting-edge chemical processes, such as transesterification, to transform inputs into high-performance, low-environmental-impact biodiesel."
+        },
+        "commitment": {
+          "title": "Environmental Commitment",
+          "description": "Each partnership with InoveBIO strengthens the circular economy and contributes to reducing the carbon footprint, promoting a more sustainable future."
+        }
+      }
+    }
+  },
+  "contato": {
+    "cliente": {
+      "label": "BECOME OUR CLIENT",
+      "title": "I Want to Buy Biodiesel",
+      "intro": "If your company seeks renewable, clean, and responsible energy solutions, InoveBIO is the right partner to move towards a more sustainable future.",
+      "formTitle": "Get in touch and discover how we can grow together."
+    },
+    "fornecedor": {
+      "label": "BECOME OUR SUPPLIER",
+      "title": "I Want to Sell to InoveBIO",
+      "intro": "At InoveBIO, we see value where many see only waste. That's why we seek suppliers who share our vision of transforming waste into clean energy, creating business opportunities aligned with sustainability.",
+      "whyTitle": "Why supply to InoveBIO?",
+      "formTitle": "Fill out the form and become our supplier.",
+      "topics": {
+        "value": {
+          "title": "Waste valorization:",
+          "text": "what would be waste becomes an income opportunity."
+        },
+        "responsibility": {
+          "title": "Environmental responsibility:",
+          "text": "your business helps reduce impacts on the planet."
+        },
+        "partnership": {
+          "title": "Transparent partnership:",
+          "text": "clear processes and trustworthy relationships."
+        },
+        "cycle": {
+          "title": "Sustainable cycle:",
+          "text": "together, we strengthen the circular economy."
+        }
+      }
+    }
+  },
+  "hero": {
+    "title": "Transforming waste into clean energy",
+    "subtitle": "Sustainability and innovation in biodiesel",
+    "cta": {
+      "primary": "Learn More",
+      "secondary": "Contact Us"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Get to know the InoveBIO story",
+    "description": {
+      "p1": "InoveBIO is a company dedicated to sustainable biodiesel production, transforming waste into clean energy.",
+      "p2": "With cutting-edge technology and certified processes, we guarantee quality and efficiency in every liter of biodiesel produced.",
+      "p3": "Our commitment is to the environment and building a more sustainable future for all."
+    }
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "subtitle": "We offer complete bioenergy solutions",
+    "items": {
+      "bioprocesses": {
+        "title": "Bioprocesses",
+        "description": "Advanced biological processes for high-quality biodiesel production"
+      },
+      "wastewater": {
+        "title": "Effluent Treatment",
+        "description": "Sustainable solutions for effluent treatment and reuse"
+      },
+      "consulting": {
+        "title": "Consulting",
+        "description": "Specialized consulting in bioenergy and sustainability"
+      }
+    }
+  },
+  "differentials": {
+    "title": "Our Differentials",
+    "subtitle": "What makes us unique in the market",
+    "quality": {
+      "title": "Guaranteed Quality",
+      "description": "Certified products with the highest quality standards"
+    },
+    "technology": {
+      "title": "Technology and Innovation",
+      "description": "Modern and sustainable processes for biodiesel production"
+    },
+    "sustainability": {
+      "title": "Sustainability",
+      "description": "Commitment to the environment and circular economy"
+    },
+    "experience": {
+      "title": "Experience",
+      "description": "Years of expertise in the renewable energy market"
+    },
+    "items": {
+      "excellence": {
+        "title": "Excellence",
+        "description": "Commitment to quality and excellence in all processes"
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "Sustainable practices throughout the supply chain"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Constant investment in research and development"
+      },
+      "partnership": {
+        "title": "Partnership",
+        "description": "Transparent and lasting relationship with our clients"
+      }
+    }
+  },
+  "stats": {
+    "title": "Impressive Numbers",
+    "subtitle": "Results that make a difference",
+    "items": {
+      "experience": {
+        "value": "10+",
+        "label": "Years of Experience"
+      },
+      "projects": {
+        "value": "100+",
+        "label": "Completed Projects"
+      },
+      "clients": {
+        "value": "50+",
+        "label": "Satisfied Clients"
+      },
+      "efficiency": {
+        "value": "95%",
+        "label": "Operational Efficiency"
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send",
+    "namePlaceholder": "Your full name",
+    "emailPlaceholder": "{'your@email.com'}",
+    "phonePlaceholder": "+1 (000) 000-0000",
+    "messagePlaceholder": "Type your message here..."
+  },
+  "supplier": {
+    "title": "Become a Supplier",
+    "subtitle": "Join our network of sustainable partners",
+    "company": "Company",
+    "companyPlaceholder": "Your company name"
+  },
+  "footer": {
+    "slogan": "Transforming waste into clean energy. Sustainability and innovation in biodiesel.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "socialMedia": "Social Media",
+    "rights": "All rights reserved.",
+    "developedBy": "Developed by",
+    "and": "and"
+  },
+  "home": {
+    "heroTitle1": "Transforming",
+    "heroTitle2": "waste",
+    "heroTitle3": "into",
+    "heroTitle4": "clean energy",
+    "btnClient": "BECOME A CLIENT",
+    "btnSupplier": "BECOME A SUPPLIER"
+  },
+  "cards": {
+    "rawMaterials": {
+      "title": "Diverse raw materials",
+      "description": "We use vegetable oils, animal fats, and organic waste, transforming waste into value."
+    },
+    "chemicalProcesses": {
+      "title": "Advanced chemical processes",
+      "description": "We use techniques such as transesterification to ensure efficiency and performance in biofuel."
+    },
+    "positiveImpact": {
+      "title": "Positive impact",
+      "description": "We promote the circular economy, reduce dependence on fossil fuels, and help decrease the environmental footprint."
+    }
+  },
+  "validation": {
+    "required": "Required field",
+    "emailInvalid": "Invalid email",
+    "phoneInvalid": "Invalid phone",
+    "nameMin": "Name must be at least 3 characters",
+    "phoneMin": "Phone must be at least 10 digits",
+    "messageMin": "Message must be at least 10 characters"
+  }
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Página Inicial -->
+  <url>
+    <loc>https://inovebio.com.br/</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://inovebio.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inovebio.com.br/en"/>
+  </url>
+  
+  <!-- Quem Somos -->
+  <url>
+    <loc>https://inovebio.com.br/quem-somos</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://inovebio.com.br/quem-somos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inovebio.com.br/en/quem-somos"/>
+  </url>
+  
+  <!-- Nossa Atuação -->
+  <url>
+    <loc>https://inovebio.com.br/nossa-atuacao</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://inovebio.com.br/nossa-atuacao"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inovebio.com.br/en/nossa-atuacao"/>
+  </url>
+  
+  <!-- Contato -->
+  <url>
+    <loc>https://inovebio.com.br/contato</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://inovebio.com.br/contato"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inovebio.com.br/en/contato"/>
+  </url>
+  
+  <!-- Versão em Inglês - Página Inicial -->
+  <url>
+    <loc>https://inovebio.com.br/en</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://inovebio.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inovebio.com.br/en"/>
+  </url>
+  
+  <!-- Versão em Inglês - Quem Somos -->
+  <url>
+    <loc>https://inovebio.com.br/en/quem-somos</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://inovebio.com.br/quem-somos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inovebio.com.br/en/quem-somos"/>
+  </url>
+  
+  <!-- Versão em Inglês - Nossa Atuação -->
+  <url>
+    <loc>https://inovebio.com.br/en/nossa-atuacao</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://inovebio.com.br/nossa-atuacao"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inovebio.com.br/en/nossa-atuacao"/>
+  </url>
+  
+  <!-- Versão em Inglês - Contato -->
+  <url>
+    <loc>https://inovebio.com.br/en/contato</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://inovebio.com.br/contato"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inovebio.com.br/en/contato"/>
+  </url>
+  
+</urlset>

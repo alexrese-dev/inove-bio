@@ -1,0 +1,300 @@
+{
+  "nav": {
+    "home": "Página Inicial",
+    "aboutUs": "Quem Somos",
+    "ourWork": "Nossa Atuação",
+    "contact": "Contato",
+    "becomeClient": "Quero Ser Cliente",
+    "becomeSupplier": "Quero Ser Fornecedor",
+    "wantToBuy": "Quero Comprar",
+    "wantToSell": "Quero Vender",
+    "history": "História",
+    "missionVisionValues": "Missão, Visão e Valores",
+    "purpose": "Propósito",
+    "howItWorks": "Como Funciona",
+    "differentials": "Diferenciais"
+  },
+  "quemSomos": {
+    "history": {
+      "overline": "Nossa Trajetória",
+      "title": "Nossa História",
+      "text1": "A InoveBIO nasceu da visão ousada e determinada de Fernando, que deixou de ser funcionário para se tornar o coração da operação e a alma de um projeto inovador. Comprometida com o futuro sustentável do planeta, a empresa é especializada no fornecimento de insumos para a produção de biodiesel, atendendo organizações que buscam soluções energéticas renováveis, limpas e responsáveis. Com uma equipe qualificada (que inclui profissionais como um químico dedicado) a InoveBIO transforma o que seria descarte em matéria-prima valiosa.",
+      "text2": "Óleos vegetais, gorduras animais e resíduos orgânicos são convertidos em biocombustível de alta qualidade por meio de processos avançados, como a transesterificação, fortalecendo a economia circular e reduzindo a pegada ambiental. Mais do que fornecedora, a InoveBIO é um novo modelo de empresa: sustentável, inteligente e ousada."
+    },
+    "mvv": {
+      "overline": "Nossos Pilares",
+      "title": "Missão, Visão e Valores",
+      "mission": {
+        "title": "Missão",
+        "text": "Fornecer insumos de alta qualidade para a produção de biodiesel, unindo inovação, conhecimento técnico e responsabilidade ambiental, para apoiar empresas que buscam soluções energéticas renováveis e conscientes."
+      },
+      "vision": {
+        "title": "Visão",
+        "text": "Ser referência no setor de biocombustíveis como uma empresa que transforma resíduos em energia limpa, impulsionando a economia circular e contribuindo para um futuro sustentável."
+      },
+      "values": {
+        "title": "Valores",
+        "excellence": {
+          "title": "Excelência ágil",
+          "text": "Fazemos bem feito, com velocidade e adaptabilidade."
+        },
+        "innovation": {
+          "title": "Inovação que transforma",
+          "text": "Criamos soluções que movem o setor e o planeta para o futuro."
+        },
+        "focus": {
+          "title": "Foco no cliente, sempre",
+          "text": "Escutamos, entendemos e entregamos valor real para quem está conosco."
+        },
+        "partnerships": {
+          "title": "Parcerias de valor",
+          "text": "Acreditamos em alianças fortes, que aceleram ideias e resultados."
+        },
+        "commitment": {
+          "title": "Compromisso com o futuro",
+          "text": "Atuamos com consciência ambiental e responsabilidade social para deixar um legado positivo."
+        }
+      }
+    },
+    "purpose": {
+      "prefix": "A visão que nos move",
+      "title": "Nosso Propósito é transformar ...",
+      "text": "o que é descartado em energia limpa, impulsionando a sustentabilidade e provando que é possível unir inovação, coragem e responsabilidade ambiental para construir um futuro melhor para todos.",
+      "quote": "Uma potência verde que transforma tudo em biodiesel.",
+      "statement": "Atuando com inteligência e responsabilidade para garantir um futuro que valha a pena existir."
+    }
+  },
+  "nossaAtuacao": {
+    "howItWorks": {
+      "overline": "COMO FUNCIONA",
+      "title": "Fornecimento de insumos para biodiesel",
+      "description": "Na InoveBIO, acreditamos que parcerias estratégicas são o combustível para transformar o futuro da energia. Por isso, buscamos empresas que compartilham nossa visão de sustentabilidade e inovação para, juntos, impulsionarmos a produção de biodiesel de qualidade e reduzirmos os impactos ambientais.",
+      "whyPartner": "Por que ser parceiro da InoveBIO?",
+      "benefits": {
+        "quality": {
+          "title": "Qualidade garantida:",
+          "text": "insumos de alto padrão para produção eficiente de biodiesel."
+        },
+        "diversity": {
+          "title": "Diversidade de matérias-primas:",
+          "text": "óleos vegetais, gorduras animais e resíduos orgânicos, assegurando flexibilidade e continuidade no fornecimento."
+        },
+        "technology": {
+          "title": "Tecnologia e inovação:",
+          "text": "processos químicos avançados, como a transesterificação, que garantem desempenho superior."
+        },
+        "commitment": {
+          "title": "Compromisso ambiental:",
+          "text": "cada parceria fortalece a economia circular e ajuda a reduzir a pegada de carbono."
+        }
+      }
+    },
+    "differentials": {
+      "overline": "O QUE NOS DIFERENCIA",
+      "title": "Nossos diferenciais",
+      "badges": {
+        "quality": "Excelência em processos",
+        "sustainability": "Sustentabilidade comprovada",
+        "innovation": "Inovação contínua",
+        "partnership": "Parceria estratégica"
+      },
+      "cards": {
+        "quality": {
+          "title": "Qualidade Superior",
+          "description": "Insumos de alta qualidade que garantem eficiência e performance na produção de biodiesel, com padrões rigorosos de controle."
+        },
+        "rawMaterial": {
+          "title": "Diversidade de Matéria-Prima",
+          "description": "Trabalhamos com uma ampla gama de matérias-primas: óleos vegetais, gorduras animais e resíduos orgânicos, oferecendo flexibilidade e segurança no fornecimento."
+        },
+        "technology": {
+          "title": "Tecnologia Avançada",
+          "description": "Utilizamos processos químicos de ponta, como a transesterificação, para transformar insumos em biodiesel de alta performance e baixo impacto ambiental."
+        },
+        "commitment": {
+          "title": "Compromisso Ambiental",
+          "description": "Cada parceria com a InoveBIO fortalece a economia circular e contribui para a redução da pegada de carbono, promovendo um futuro mais sustentável."
+        }
+      }
+    }
+  },
+  "contato": {
+    "cliente": {
+      "label": "SEJA NOSSO CLIENTE",
+      "title": "Quero Comprar Biodiesel",
+      "intro": "Se sua empresa busca soluções energéticas renováveis, limpas e responsáveis, a InoveBIO é o parceiro certo para avançar rumo a um futuro mais sustentável.",
+      "formTitle": "Entre em contato e descubra como podemos crescer juntos."
+    },
+    "fornecedor": {
+      "label": "SEJA NOSSO FORNECEDOR",
+      "title": "Quero Vender para a InoveBIO",
+      "intro": "Na InoveBIO, enxergamos valor onde muitos veem apenas descarte. Por isso, buscamos fornecedores que compartilham nossa visão de transformar resíduos em energia limpa, criando oportunidades de negócio alinhadas à sustentabilidade.",
+      "whyTitle": "Por que fornecer para a InoveBIO?",
+      "formTitle": "Preencha o formulário e seja nosso fornecedor.",
+      "topics": {
+        "value": {
+          "title": "Valorização do descarte:",
+          "text": "o que seria resíduo vira oportunidade de renda."
+        },
+        "responsibility": {
+          "title": "Responsabilidade ambiental:",
+          "text": "seu negócio contribui para reduzir impactos no planeta."
+        },
+        "partnership": {
+          "title": "Parceria transparente:",
+          "text": "processos claros e relacionamento de confiança."
+        },
+        "cycle": {
+          "title": "Ciclo sustentável:",
+          "text": "juntos, fortalecemos a economia circular."
+        }
+      }
+    }
+  },
+  "hero": {
+    "title": "Transformando resíduos em energia limpa",
+    "subtitle": "Sustentabilidade e inovação em biodiesel",
+    "cta": {
+      "primary": "Saiba Mais",
+      "secondary": "Entre em Contato"
+    }
+  },
+  "about": {
+    "title": "Quem Somos",
+    "subtitle": "Conheça a história da Inove BIO",
+    "description": {
+      "p1": "A Inove BIO é uma empresa dedicada à produção de biodiesel sustentável, transformando resíduos em energia limpa.",
+      "p2": "Com tecnologia de ponta e processos certificados, garantimos a qualidade e eficiência em cada litro de biodiesel produzido.",
+      "p3": "Nosso compromisso é com o meio ambiente e com a construção de um futuro mais sustentável para todos."
+    }
+  },
+  "solutions": {
+    "title": "Nossas Soluções",
+    "subtitle": "Oferecemos soluções completas em bioenergia",
+    "items": {
+      "bioprocesses": {
+        "title": "Bioprocessos",
+        "description": "Processos biológicos avançados para produção de biodiesel de alta qualidade"
+      },
+      "wastewater": {
+        "title": "Tratamento de Efluentes",
+        "description": "Soluções sustentáveis para tratamento e reaproveitamento de efluentes"
+      },
+      "consulting": {
+        "title": "Consultoria",
+        "description": "Consultoria especializada em bioenergia e sustentabilidade"
+      }
+    }
+  },
+  "differentials": {
+    "title": "Nossos Diferenciais",
+    "subtitle": "O que nos torna únicos no mercado",
+    "quality": {
+      "title": "Qualidade Garantida",
+      "description": "Produtos certificados com os mais altos padrões de qualidade"
+    },
+    "technology": {
+      "title": "Tecnologia e Inovação",
+      "description": "Processos modernos e sustentáveis para produção de biodiesel"
+    },
+    "sustainability": {
+      "title": "Sustentabilidade",
+      "description": "Compromisso com o meio ambiente e economia circular"
+    },
+    "experience": {
+      "title": "Experiência",
+      "description": "Anos de expertise no mercado de energia renovável"
+    },
+    "items": {
+      "excellence": {
+        "title": "Excelência",
+        "description": "Compromisso com a qualidade e excelência em todos os processos"
+      },
+      "sustainability": {
+        "title": "Sustentabilidade",
+        "description": "Práticas sustentáveis em toda a cadeia produtiva"
+      },
+      "innovation": {
+        "title": "Inovação",
+        "description": "Investimento constante em pesquisa e desenvolvimento"
+      },
+      "partnership": {
+        "title": "Parceria",
+        "description": "Relacionamento transparente e duradouro com nossos clientes"
+      }
+    }
+  },
+  "stats": {
+    "title": "Números que Impressionam",
+    "subtitle": "Resultados que fazem a diferença",
+    "items": {
+      "experience": {
+        "value": "10+",
+        "label": "Anos de Experiência"
+      },
+      "projects": {
+        "value": "100+",
+        "label": "Projetos Realizados"
+      },
+      "clients": {
+        "value": "50+",
+        "label": "Clientes Satisfeitos"
+      },
+      "efficiency": {
+        "value": "95%",
+        "label": "Eficiência Operacional"
+      }
+    }
+  },
+  "footer": {
+    "slogan": "Transformando resíduos em energia limpa. Sustentabilidade e inovação em biodiesel.",
+    "quickLinks": "Links Rápidos",
+    "contact": "Contato",
+    "socialMedia": "Redes Sociais",
+    "rights": "Todos os direitos reservados.",
+    "developedBy": "Desenvolvido por",
+    "and": "e"
+  },
+  "home": {
+    "heroTitle1": "Transformando",
+    "heroTitle2": "resíduos",
+    "heroTitle3": "em",
+    "heroTitle4": "energia limpa",
+    "btnClient": "QUERO SER CLIENTE",
+    "btnSupplier": "QUERO SER FORNECEDOR"
+  },
+  "cards": {
+    "rawMaterials": {
+      "title": "Matérias-primas diversas",
+      "description": "Aproveitamos óleos vegetais, gorduras animais e resíduos orgânicos, transformando o descarte em valor."
+    },
+    "chemicalProcesses": {
+      "title": "Processos químicos avançados",
+      "description": "Utilizamos técnicas como a transesterificação para assegurar eficiência e desempenho no biocombustível."
+    },
+    "positiveImpact": {
+      "title": "Impacto positivo",
+      "description": "Promovemos a economia circular, reduzimos a dependência de combustíveis fósseis e ajudamos a diminuir a pegada ambiental."
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "name": "Nome Completo",
+    "email": "E-mail",
+    "phone": "Telefone",
+    "message": "Mais informações",
+    "send": "Enviar Mensagem",
+    "namePlaceholder": "Digite seu nome completo",
+    "emailPlaceholder": "seu (at) email.com",
+    "phonePlaceholder": "(00) 00000-0000",
+    "messagePlaceholder": "Conte-nos mais sobre sua necessidade..."
+  },
+  "validation": {
+    "required": "Campo obrigatório",
+    "emailInvalid": "E-mail inválido",
+    "phoneInvalid": "Telefone inválido",
+    "nameMin": "Nome deve ter pelo menos 3 caracteres",
+    "phoneMin": "Telefone deve ter pelo menos 10 dígitos",
+    "messageMin": "Mensagem deve ter pelo menos 10 caracteres"
+  }
+}
