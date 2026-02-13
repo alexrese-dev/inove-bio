@@ -36,7 +36,15 @@ COPY --from=builder --chown=node:node /app/.output ./.output
 # Variáveis de ambiente
 ENV NODE_ENV=production \
     HOST=0.0.0.0 \
-    PORT=3000
+    PORT=3000 \
+    SMTP_HOST="" \
+    SMTP_PORT="" \
+    SMTP_SECURE="" \
+    SMTP_USER="" \
+    SMTP_PASS="" \
+    EMAIL_FROM="" \
+    EMAIL_TO="" \
+    SITE_URL=""
 
 EXPOSE 3000
 
