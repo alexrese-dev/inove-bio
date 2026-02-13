@@ -50,11 +50,7 @@ export default defineNuxtConfig({
     defaultLocale: "pt",
     strategy: "prefix_except_default",
     langDir: "locales",
-    detectBrowserLanguage: {
-      useCookie: true,
-      cookieKey: "i18n_redirected",
-      redirectOn: "root",
-    },
+    detectBrowserLanguage: false,
   },
 
   // Configuração do CSS global
@@ -237,7 +233,7 @@ export default defineNuxtConfig({
               "@type": "ContactPoint",
               telephone: "+55-11-4002-8922",
               contactType: "customer service",
-              email: "contato@inovebio.com.br",
+              email: "controller@inovebio.com.br",
               availableLanguage: ["Portuguese", "English"],
             },
             sameAs: [

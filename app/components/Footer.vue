@@ -40,8 +40,8 @@
           <h3 class="text-white text-subtitle-1 font-weight-bold mb-4">{{ $t('footer.contact') }}</h3>
           <div class="d-flex align-start mb-3">
             <v-icon color="secondary" size="small" class="mr-2">mdi-email</v-icon>
-            <a href="mailto:contato@inovebio.com.br" class="text-grey-lighten-1 text-decoration-none text-body-2">
-              contato@inovebio.com.br
+            <a href="mailto:controller@inovebio.com.br" class="text-grey-lighten-1 text-decoration-none text-body-2">
+              controller@inovebio.com.br
             </a>
           </div>
           <div class="d-flex align-start">

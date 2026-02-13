@@ -12,3 +12,9 @@ services:
       timeout: 10s
       retries: 3
       start_period: 40s
+    networks:
+      - inove-network
+
+networks:
+  inove-network:
+    driver: bridge

@@ -227,7 +227,7 @@ useHead({
             '@type': 'ContactPoint',
             'telephone': '+55-11-4002-8922',
             'contactType': 'customer service',
-            'email': 'contato@inovebio.com.br',
+            'email': 'controller@inovebio.com.br',
             'availableLanguage': ['Portuguese', 'English']
           }
         }

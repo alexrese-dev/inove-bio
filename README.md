@@ -100,8 +100,8 @@ SMTP_USER=seu-email@gmail.com
 SMTP_PASS=sua-senha-de-app
 
 # Emails
-EMAIL_FROM=contato@inovebio.com.br
-EMAIL_TO=contato@inovebio.com.br
+EMAIL_FROM=controller@inovebio.com.br
+EMAIL_TO=controller@inovebio.com.br
 
 # Site
 SITE_URL=https://inovebio.com.br
